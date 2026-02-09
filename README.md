@@ -8,7 +8,7 @@ Software engineer with 8 years experience.
 
 ## About me
 
-I lead the mobile team (iOS + Android) for a large-scale consumer app with **<u>2M+ users, live in 20+ countries</u>** 🌍
+I lead the mobile team (iOS + Android) for a large-scale consumer app with <u>2M+ users, live in 20+ countries</u> 🌍
 I help set the product’s architecture, technical direction and collaborate with backend and design team.
 
 To keep us best-in-class in our space, we’re constantly running <u>**A/B experiments**</u> focused on engagement, retention and revenue. I measure and analyze the results using the market-leading platform <u>**Databricks**</u>, great for data engineering and analysis.
@@ -21,20 +21,19 @@ I run my own self-hosted **cloud services**, DNS, VPN, file system, etc
 
 ---
 
-## What I work with
-
-**Core disciplines**
+## 💻 Core disciplines
 - SwiftUI, UIKit, Combine
 - Xcode Cloud / Fastlane / Bitrise CI
 - Databricks
 - Passion for UX
 
+---
 
-**Interests**
+## 🏃🏻 Interests
 - Self-hosting (homelab, backup strategies, monitoring)
 - Cloud: DNS, Encrypted File storage, VPN, Proxy
 - Privacy-aware design
-- Outdoor sports 🏃🏻
+- Outdoor sports 
 
 ---
 
@@ -46,15 +45,7 @@ I run my own self-hosted **cloud services**, DNS, VPN, file system, etc
 
 ---
 
-## How I work
-
-- I like **clean, well-documented code** and small, composable abstractions.  
-- I prefer **understanding the stack end-to-end**: from hardware and protocols up to UI.  
-- I care a lot about **security, privacy, and reproducibility** in my setups and code.
-
----
-
-## Contact me!
+## 👤 Contact me!
 
 - Email: hello.artur@icloud.com
 - LinkedIn: [Profile](https://www.linkedin.com/in/artur-marchetto)
