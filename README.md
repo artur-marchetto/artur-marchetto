@@ -27,15 +27,13 @@ I run my own self-hosted **cloud services**, DNS, VPN, file system, etc
 - Databricks
 - Passion for UX
 
----
 
 ## 🏃🏻 Interests
 - Self-hosting (homelab, backup strategies, monitoring)
 - Cloud: DNS, Encrypted File storage, VPN, Proxy
 - Privacy-aware design
-- Outdoor sports 
+- Outdoor sports
 
----
 
 ## 📚 Currently self-studying
 
@@ -43,7 +41,6 @@ I run my own self-hosted **cloud services**, DNS, VPN, file system, etc
 - Improving my **self-hosted Cloud infrastructure** (resilience, observability, security)
 - Learning **Fusion 360** for 3D Design
 
----
 
 ## 👤 Contact me!
 
