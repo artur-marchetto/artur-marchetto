@@ -1,6 +1,6 @@
 # Hi, I'm Artur Marchetto 🇮🇹
 
-![Hero Banner](https://drive.google.com/file/d/1sqLhhProSXzbedh6rvGUXGqIb9gfcT5v/view?usp=drive_link)
+![Hero Banner](./Assets/cc-1.png)
 
 ---
 
