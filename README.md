@@ -8,11 +8,11 @@ Software engineer with 8 years experience.
 
 ## About me
 
-I lead the mobile team (iOS + Android) for a large-scale consumer app with <u>2M+ users, live in 20+ countries</u> 🌍
+I lead the mobile team (iOS + Android) for a large-scale consumer app with **2M+ users, live in 20+ countries** 🌍
 I help set the product’s architecture, technical direction and collaborate with backend and design team.
 
-To keep us best-in-class in our space, we’re constantly running <u>**A/B experiments**</u> focused on engagement, retention and revenue. I measure and analyze the results using the market-leading platform <u>**Databricks**</u>, great for data engineering and analysis.
-From there, I <u>**turn insights into actionable priorities**</u> and product decisions.
+To keep us best-in-class in our space, we’re constantly running **A/B experiments** focused on engagement, retention and revenue. I measure and analyze the results using the market-leading platform **Databricks**, great for data engineering and analysis.
+From there, I **turn insights into actionable priorities** and product decisions.
 I care about UX, performance and scalability.
 
 Outside of work, I’m deeply passionate about **maths & physics, robotics and networking**. 🤖
@@ -46,4 +46,4 @@ I run my own self-hosted **cloud services**, DNS, VPN, file system, etc
 
 - Email: hello.artur@icloud.com
 - LinkedIn: [Profile](https://www.linkedin.com/in/artur-marchetto)
-- Other privacy-focused contact: [Signal](https://signal.me/#eu/G3IbuLynQ2r4GqkV7WbixsNFKjs2bZc6Tfs2TB6VSvOSn6mRbX9GfaaJ2Zt5QYPh) **@poteremat.27**
+- Privacy-focused contact: [Signal](https://signal.me/#eu/G3IbuLynQ2r4GqkV7WbixsNFKjs2bZc6Tfs2TB6VSvOSn6mRbX9GfaaJ2Zt5QYPh) **@poteremat.27**
