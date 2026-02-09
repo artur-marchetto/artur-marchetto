@@ -1,8 +1,7 @@
 # Hi, I'm Artur Marchetto 🇮🇹
 
-### - Lead Mobile (iOS) Engineer at the UK’s best-in-class survey app with 2M+ users
-### - EE & Robotics
-### - Privacy & self-hosting enthusiast
+<img width="816" height="545" alt="Screenshot 2026-02-09 at 4 33 55 PM" src="https://github.com/user-attachments/assets/2e176cb4-c4e0-4364-9c1f-219e34437dc9" />
+
 
 ---
 
