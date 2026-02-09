@@ -1,6 +1,6 @@
 # Hi, I'm Artur Marchetto 🇮🇹
 
-Lead Mobile (iOS) Engineer at the UK’s best-in-class survey app with 2M+ users | EE & Robotics | Privacy & self-hosting enthusiast
+### Lead Mobile (iOS) Engineer at the UK’s best-in-class survey app with 2M+ users | EE & Robotics | Privacy & self-hosting enthusiast
 
 ---
 
