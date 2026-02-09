@@ -1,5 +1,5 @@
 # Hi, I'm Artur Marchetto 🇮🇹
-Software engineer 8 years experience.
+Software engineer with 8 years experience.
 
 ## Lead Mobile Engineer: Curious Cat Survey app
 ![Hero Banner](./Assets/cc-2.png)
