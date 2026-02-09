@@ -1,7 +1,6 @@
 # Hi, I'm Artur Marchetto 🇮🇹
 
-<img width="816" height="545" alt="Screenshot 2026-02-09 at 4 33 55 PM" src="https://github.com/user-attachments/assets/2e176cb4-c4e0-4364-9c1f-219e34437dc9" />
-
+![Hero Banner](https://drive.google.com/file/d/1sqLhhProSXzbedh6rvGUXGqIb9gfcT5v/view?usp=drive_link)
 
 ---
 
