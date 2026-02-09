@@ -1,5 +1,7 @@
 # Hi, I'm Artur Marchetto 🇮🇹
+Software engineer 8 years experience.
 
+## Lead Mobile Engineer: Curious Cat Survey app
 ![Hero Banner](./Assets/cc-2.png)
 
 ---
@@ -13,7 +15,7 @@ To keep us best-in-class in our space, we’re constantly running A/B experiment
 From there, I turn insights into actionable product decisions and roadmap priorities.
 I care about UX, performance and scalability.
 
-Outside of work, I’m deeply passionate about maths & physics, robotics and networking.
+Outside of work, I’m deeply passionate about maths & physics, robotics and networking. 🤖
 I run my own self-hosted cloud services, DNS, VPN, file system, etc
 Privacy is a human right 🔒
 
@@ -22,13 +24,24 @@ Privacy is a human right 🔒
 ## What I work with
 
 **Core disciplines**
-- iOS development (Swift, UIKit, SwiftUI, Combine)
+- SwiftUI
+- UIKit
+- Combine
+- Xcode Cloud / Fastlane / Bitrise CI
+
+
 - Electrical engineering (embedded systems, circuits, signal basics)
 - Applied mathematics & physics (mechanics, control, numerics – in progress)
 
+## Strenghts
+
+## Weaknesses
+- Can be a bit perfectionist
+
+
 **Systems / infrastructure**
 - Self-hosting (homelab, backup strategies, monitoring)
-- Networking: DNS, WireGuard (with obfuscation), VPN topologies
+- Networking: DNS, Encrypted File storage, VPN, Proxy
 - Cloud: self-hosted storage and services
 
 **Robotics & hardware**
@@ -73,7 +86,6 @@ Privacy is a human right 🔒
 
 ## Contact
 
-- Website/Blog: [your-site.com]  
-- Email: [your-email or contact form]  
-- LinkedIn: [link] (optional)  
-- Keybase / GPG / other privacy-focused contact: [link] (optional)
+- Email: hello.artur@icloud.com
+- LinkedIn: [https://www.linkedin.com/in/artur-marchetto] (optional "Profile")
+- Other privacy-focused contact: [poteremat.27] (Signal "Signal")
