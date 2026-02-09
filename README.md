@@ -8,7 +8,7 @@ Software engineer with 8 years experience.
 
 ## About me
 
-I lead the mobile team (iOS + Android) for a large-scale consumer app with <u>**2M+ users, live in 20+ countries**</u> 🌍
+I lead the mobile team (iOS + Android) for a large-scale consumer app with **<u>2M+ users, live in 20+ countries</u>** 🌍
 I help set the product’s architecture, technical direction and collaborate with backend and design team.
 
 To keep us best-in-class in our space, we’re constantly running <u>**A/B experiments**</u> focused on engagement, retention and revenue. I measure and analyze the results using the market-leading platform <u>**Databricks**</u>, great for data engineering and analysis.
