@@ -1,6 +1,6 @@
 # Hi, I'm Artur Marchetto 🇮🇹
 
-![Hero Banner](./Assets/cc-1.png)
+![Hero Banner](./Assets/cc-2.png)
 
 ---
 
