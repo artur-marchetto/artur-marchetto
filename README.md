@@ -88,4 +88,4 @@ Privacy is a human right 🔒
 
 - Email: hello.artur@icloud.com
 - LinkedIn: [Profile](https://www.linkedin.com/in/artur-marchetto)
-- Other privacy-focused contact: [Signal](https://signal.me/#eu/G3IbuLynQ2r4GqkV7WbixsNFKjs2bZc6Tfs2TB6VSvOSn6mRbX9GfaaJ2Zt5QYPh "@poteremat.27")
+- Other privacy-focused contact: [Signal](https://signal.me/#eu/G3IbuLynQ2r4GqkV7WbixsNFKjs2bZc6Tfs2TB6VSvOSn6mRbX9GfaaJ2Zt5QYPh) **@poteremat.27**
